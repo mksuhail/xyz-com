@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Flipkart sale is on. Hurry !! - node2</h2>
+<h2>Welcome to xyz.com</h2>
 </body>
 </html>
